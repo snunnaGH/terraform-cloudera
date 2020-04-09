@@ -6,7 +6,7 @@ After running this terraform module you should have Cloudera SCM agents in all t
 connected to a Cloudera Manager server so just have to hit "Next, next, next" a couple of times to have your cluster ready.
 
 ## Example
-
+#MY Chnage SN
 ```
 module "cloudera" {
     source  = "github.com/danielfrg/terrafor-cloudera/aws"
